@@ -2,7 +2,7 @@ import random
 questions = [
     {
         "question": "What is the primary goal of exploratory data analysis (EDA)?",
-        "options": ["(a) Making predictions", "(b) Summarizing data characteristics", "(c) Berlin"],
+        "options": ["(a) Making predictions", "(b) Summarizing data characteristics", "(c) None"],
         "answer": "b"
     },
     {
